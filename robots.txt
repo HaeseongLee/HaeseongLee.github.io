@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://HaeseongLee.github.io/al-folio/sitemap.xml
+Sitemap: https://HaeseongLee.github.io/sitemap.xml
