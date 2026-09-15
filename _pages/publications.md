@@ -15,20 +15,20 @@ nav_order: 2
 
 <div class="publications">
 
-## International Journal
+<h2 class="bibliography">International Journals</h2>
 
 {% bibliography --query @*[category=international_journal] %}
 
-## International Conference
+<h2 class="bibliography">International Conferences</h2>
 
 {% bibliography --query @*[category=international_conference] %}
 
-## Domestic Journal
+<h2 class="bibliography">Domestic Journals</h2>
 
 {% bibliography --query @*[category=domestic_journal] %}
 
-## Domestic Conference
+<h2 class="bibliography">Domestic Conferences</h2>
 
-*No publications yet.*
+<p><em>No publications yet.</em></p>
 
 </div>
