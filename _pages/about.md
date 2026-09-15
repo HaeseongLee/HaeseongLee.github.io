@@ -8,10 +8,7 @@ profile:
   align: right
   image: HaeseongLee.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    # <p>Artificial Intelligence Institute, Seoul National University</p>
-    # <p>Seoul 08826, Republic of Korea</p>
-    # <p>lhs4138@snu.ac.kr</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
