@@ -30,13 +30,29 @@ I received my **Ph.D.** from **Seoul National University** in 2025, where I was 
 <!-- prettier-ignore -->
 Currently, I'm working as a research fellow at the Artificial Intelligence Institute, Seoul National University (AIIS). My research interests include contact-rich manipulation, contact state estimation, teleoperation, and learning-based manipulation.
 
-### Publication Summary
-
-| Category | Count |
-| :-- | --: |
-| International Journals | 7 |
-| International Conferences | 6 |
-| Domestic Journals | 1 |
-| Accepted Papers | 4 |
-| **Total Publications** | **14** |
+<table style="width: 270px; font-size: 0.9rem;">
+  <thead>
+    <tr>
+      <th colspan="2">Publication Summary</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>International Journals</td>
+      <td style="text-align: right;">7</td>
+    </tr>
+    <tr>
+      <td>International Conferences</td>
+      <td style="text-align: right;">6</td>
+    </tr>
+    <tr>
+      <td>Domestic Journals</td>
+      <td style="text-align: right;">1</td>
+    </tr>
+    <tr>
+      <td><strong>Total Publications</strong></td>
+      <td style="text-align: right;"><strong>14</strong></td>
+    </tr>
+  </tbody>
+</table>
 
