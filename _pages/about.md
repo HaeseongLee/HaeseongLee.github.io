@@ -8,7 +8,7 @@ profile:
   align: right
   image: HaeseongLee.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,7 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<!-- prettier-ignore -->
 I received my **Ph.D.** from **Seoul National University** in 2025, where I was advised by **Professor Jaeheung Park** at Dynamic Robotics Systems (Dyros) Lab. I received the B.S. degree in Mechanical System Design Engineering from Seoul National University of Science and Technology, South Korea, in 2019.
 
-Currently, I'm working as a research fellow as the Artificial Intelligence Institute, Seoul National University (AIIS). My research interests include contact-rich manipulation, contact state estimation, teleoperation, and learning-based manipulation.
+<!-- prettier-ignore -->
+Currently, I'm working as a research fellow at the Artificial Intelligence Institute, Seoul National University (AIIS). My research interests include contact-rich manipulation, contact state estimation, teleoperation, and learning-based manipulation.
 
