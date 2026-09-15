@@ -17,15 +17,15 @@ nav_order: 2
 
 ## International Journal
 
-{% bibliography --query @*[category = international_journal] %}
+{% bibliography --query @*[category=international_journal] %}
 
 ## International Conference
 
-{% bibliography --query @*[category = international_conference] %}
+{% bibliography --query @*[category=international_conference] %}
 
 ## Domestic Journal
 
-{% bibliography --query @*[category = domestic_journal] %}
+{% bibliography --query @*[category=domestic_journal] %}
 
 ## Domestic Conference
 
