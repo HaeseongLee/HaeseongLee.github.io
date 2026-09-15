@@ -33,19 +33,23 @@ latest_posts:
       <tbody>
         <tr>
           <td>International Journals</td>
-          <td style="text-align: right;">7</td>
+          <td style="text-align: right;">{% bibliography_count --query @*[category=international_journal] %}</td>
         </tr>
         <tr>
           <td>International Conferences</td>
-          <td style="text-align: right;">6</td>
+          <td style="text-align: right;">{% bibliography_count --query @*[category=international_conference] %}</td>
         </tr>
         <tr>
           <td>Domestic Journals</td>
-          <td style="text-align: right;">1</td>
+          <td style="text-align: right;">{% bibliography_count --query @*[category=domestic_journal] %}</td>
+        </tr>
+        <tr>
+          <td><strong>Accepted Papers</strong></td>
+          <td style="text-align: right;"><strong>{% bibliography_count --query @*[status=accepted] %}</strong></td>
         </tr>
         <tr>
           <td><strong>Total Publications</strong></td>
-          <td style="text-align: right;"><strong>14</strong></td>
+          <td style="text-align: right;"><strong>{% bibliography_count %}</strong></td>
         </tr>
       </tbody>
     </table>
