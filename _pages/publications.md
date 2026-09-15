@@ -15,19 +15,19 @@ nav_order: 2
 
 <div class="publications">
 
-<h2 class="bibliography">International Journals</h2>
+<h2>International Journals</h2>
 
-{% bibliography --query @*[category=international_journal] %}
+{% bibliography --query @*[category=international_journal] --group_by none %}
 
-<h2 class="bibliography">International Conferences</h2>
+<h2>International Conferences</h2>
 
-{% bibliography --query @*[category=international_conference] %}
+{% bibliography --query @*[category=international_conference] --group_by none %}
 
-<h2 class="bibliography">Domestic Journals</h2>
+<h2>Domestic Journals</h2>
 
-{% bibliography --query @*[category=domestic_journal] %}
+{% bibliography --query @*[category=domestic_journal] --group_by none %}
 
-<h2 class="bibliography">Domestic Conferences</h2>
+<h2>Domestic Conferences</h2>
 
 <p><em>No publications yet.</em></p>
 
